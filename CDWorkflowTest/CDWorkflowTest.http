@@ -1,0 +1,6 @@
+@CDWorkflowTest_HostAddress = http://localhost:5111
+
+GET {{CDWorkflowTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
