@@ -1,4 +1,4 @@
-name: Build and deploy .NET Core application to Web App CDWorkflowTest20240110102138
+name: CI-Workflow
 on:
   push:
     branches:
